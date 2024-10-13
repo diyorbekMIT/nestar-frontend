@@ -4,7 +4,7 @@
   "version": "2.2.0",
   "private": true,
   "license": "MIT",
-  "author": "Ibrohimbek",
+  "author": "Unknown",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
